@@ -147,7 +147,7 @@ CONE模型是在NLLB-1.3B的基础上在包含300+语言的数据上训练得到
 |---------------|-------------|---------------------------------------------|
 | 古诗词           | 白日依山尽，黄河入海流 | The day of the flood, the day of the flood  |
 | 古诗词           | 空悲切，白了少年头   | The white, the youthful.                    |
-| 专有名词（人民地名组织名） | 鲁迅是个帅小伙     | Rusty is a good boy.                        |
+| 专有名词（人名地名组织名） | 鲁迅是个帅小伙     | Rusty is a good boy.                        |
 | 结构复杂          | 我一把把把把住了    | I put a stop to it.                         |
 | 领域名词          | 溜肥肠溜肝尖      | Flat-Hearted                                |
 
