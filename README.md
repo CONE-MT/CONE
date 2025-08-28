@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="png/lego-MT_logo.png" border="0" width=1200px/>
+<img src="images/lego-MT_logo.png" border="0" width=1200px/>
 </div>
 
 ------
@@ -15,7 +15,7 @@
 ![version](https://img.shields.io/badge/version-0.1-blue)
 
 ## Installation
-Note: Lego-MT requires Python 3.6+.
+Note: LegoMT-2 requires Python 3.6+.
 
 **Using Pip**
 ```
@@ -31,11 +31,11 @@ pip install -e .
 ```
 
 ## What News
-You can download the dataset of LegoMT2 from [here](https://huggingface.co/datasets/Lego-MT/Parallel_Dataset).
+You can download the dataset of LegoMT-2 from [here](https://huggingface.co/datasets/Lego-MT/Parallel_Dataset).
 
 
 ## Quick Start
-Following those steps to show you how to inference with Lego-MT.
+Following those steps to show you how to inference with LegoMT-2.
 
 #### Step 1: Download Model
 You can download the checkpoint of [LegoMT2](https://huggingface.co/Lego-MT/LegoMT2/tree/main).
