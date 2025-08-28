@@ -1,0 +1,16 @@
+fairseq # cd fairseq # pip install --editable ./
+torch==1.13.1
+numpy
+pandas
+sacrebleu==1.5.1
+gitpython
+sentencepiece
+pytest
+fairscale
+tensorflow
+mt-pjlab  # pip install -e ./
+flask
+flask_cors
+aliyun-python-sdk-core-v3-2.13.10 # pip install aliyun-python-sdk-core-v3==2.13.10
+aliyun-python-sdk-green  # pip install -v aliyun-python-sdk-green==3.6.6
+oss2 # pip install oss2
